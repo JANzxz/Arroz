@@ -11,5 +11,6 @@ void loop {
     digitalWhite(13, HIGH);
     delay(1000);
     digitalWhite(13, LOW);
+    delay(1000);
 
 }
